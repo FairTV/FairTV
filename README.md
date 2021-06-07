@@ -1,6 +1,6 @@
 # FairTV
 
-Implementation of paper **Fair Representation Learning Beyond MutualInformation**
+Implementation of paper **Fair Representation Learning Beyond Mutual Information**
 
 ## Requirements
 
